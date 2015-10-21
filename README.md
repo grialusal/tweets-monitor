@@ -10,4 +10,4 @@ Also, you need to configurate the parameters _consumer_key_, _consumer_secret_, 
     python tuits-monitor.py > filename.txt
 
 
-Note: In future versions, this  _crawler_ will use a database in order to keep the retrieved tweets. At the moment, keep patience :) 
+Note: In future versions, this  _crawler_ will use a database in order to keep the retrieved tweets. For the moment, keep patience :) 
